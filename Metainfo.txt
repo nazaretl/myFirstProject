@@ -1,0 +1,11 @@
+Name of QuantLet: myFirstProject
+
+Published in: Quantnet Presentation 
+
+Description: 'Explains how to create your first quantlet and contains at least 10 words. '
+
+Keywords: project, demo, quantlet, github, vocabulary
+
+
+Author: Lukas Borke
+
